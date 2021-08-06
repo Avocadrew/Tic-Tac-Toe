@@ -1,4 +1,4 @@
-module FinalProject(scanline_horizontal,scanline_vertical,player_input,clk,rst,player_win,cpu_win,st,board1,board2,board3,board4,board5,board6,board7,board8,board9,cpu_en,cpu_select,turns,is_full,mode,mo1,mo0);
+module TopModule(scanline_horizontal,scanline_vertical,player_input,clk,rst,player_win,cpu_win,st,board1,board2,board3,board4,board5,board6,board7,board8,board9,cpu_en,cpu_select,turns,is_full,mode,mo1,mo0);
 output [15:0]scanline_horizontal;
 output [15:0]scanline_vertical;
 output [1:0]board1,board2,board3,board4,board5,board6,board7,board8,board9;
