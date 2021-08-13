@@ -1,5 +1,5 @@
 # Verilog Tic-Tac-Toe for FPGA
-
+#### Jun-Yu (Andrew) Chen
 ## Introduction:
  A Tic-Tac-Toe game written in Verilog for implementation in FPGA, incorporating MCTS searching methods for game AI position selection. Two modes are incorporated: One where the AI never loses and one where mistakes could be made and enabling player victory.
  
