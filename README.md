@@ -1,4 +1,4 @@
-# Tic-Tac-Toe
+# Verilog Tic-Tac-Toe for FPGA
 
 ## Introduction:
  A Tic-Tac-Toe game written in Verilog for implementation in FPGA, incorporating MCTS searching methods for game AI position selection. Two modes are incorporated: One where the Ai never loses and one where mistakes could be made and enabling player victory.
