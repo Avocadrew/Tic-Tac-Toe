@@ -20,9 +20,9 @@ https://user-images.githubusercontent.com/64970325/129383930-2f5e2aa4-6352-4383-
 
 ## References
 [1] C. Browne, "UCT for PCG,"
-2013 IEEE Conference on Computational Inteligence in Games (CIG) CIG), Niagara Falls, ON, 2013, pp. 1 8.
+2013 IEEE Conference on Computational Inteligence in Games (CIG) CIG), Niagara Falls, ON, 2013, pp. 1~8.
 
 [2] J.
 Togelius , G. N. Yannakakis , K. O. Stanley and C. Browne, "Search Based Procedural Content Generation: A Taxonomy and Survey," in IEEE
-Transactions on Computational Intelligence and AI in Games , vol. 3, no. 3, pp. 172 186, Sept. 2011.
+Transactions on Computational Intelligence and AI in Games , vol. 3, no. 3, pp. 172~186, Sept. 2011.
 
